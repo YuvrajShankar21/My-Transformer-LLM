@@ -1,4 +1,4 @@
-### 🚀 ELL Assignment – Decoder-Only Transformer Project
+###Decoder-Only Transformer Project
 This project implements a Decoder-Only Transformer Language Model inspired by the TinyStories paper. The entire model, including the tokenizer, training pipeline, and inference engine, is built from scratch using PyTorch.
 
 It includes:
